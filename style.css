@@ -1,21 +1,21 @@
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
 }
 
 html {
-	box-sizing: border-box;
-	font-size: 62.5%;
-	scroll-behavior: smooth;
+    box-sizing: border-box;
+    font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 body {
-	font-family: "Open Sans", sans-serif;
-	font-size: 1.6rem;
-	background-color: #fff;
-	color: #222;
-	font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.6rem;
+    background-color: #fff;
+    color: #222;
+    font-weight: 400;
 }
 
 body.hidden-scrolling {
@@ -332,7 +332,7 @@ a {
 /* PRODUCTS */
 
 .products {
-	margin-bottom: 5rem;
+    padding-top: 1rem;
 }
 
 .products .product-layout {
