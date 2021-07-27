@@ -606,14 +606,14 @@ a {
 @media only screen and (max-width: 768px) {
     .products .prodouct-layout {
         grid-template-columns: repeat(2, 1fr);
-	}
+    }
     .footer .footer-container {
         grid-template-columns: 1fr;
-		row-gap: 2rem;
-	}
+	row-gap: 2rem;
+    }
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 1280px) {
     .header-main .searchContainer {
         display: none;
     }
@@ -635,7 +635,7 @@ a {
 	.hero .left h1 {
 		font-size: 3rem;
 	}
-    .products .prodouct-layout {
+    	.products .prodouct-layout {
 		grid-template-columns: 1fr;
 	}
 }
